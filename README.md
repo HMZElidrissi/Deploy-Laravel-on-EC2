@@ -83,7 +83,7 @@ alias sail='bash vendor/bin/sail'
 ---
 - You may run into this error:
 
-<img src="Screenshot from 2024-03-04 20-14-53.png" alt="error" width="500"/>
+<img src="Screenshot from 2024-03-04 20-14-53.png" alt="error" width="800"/>
 
 - To fix this error, you need just to grant write permissions to the storage directory:
 ```bash
